@@ -13,14 +13,21 @@ Wikimedia Foundation REST API terms of use: https://www.mediawiki.org/wiki/REST_
 
 ### Final Data:
 
-year: the year in which these pageviews are generated
-month: the month in which these pageviews are generated
-pagecount_all_views: all the legacy pagecount from both desktop site and mobile site
-pagecount_desktop_views: legacy pagecount from desktop site only
-pagecount_mobile_views: legacy pagecount from mobile site only
-pageview_all_views: all update method pageview from both desktop site and mobile site
-pageview_desktop_views: update method pageview from desktop site
-pageview_mobile_views: update method pageview from mobile site
+'year': the year in which these pageviews are generated
+
+'month': the month in which these pageviews are generated
+
+'pagecount_all_views': all the legacy pagecount from both desktop site and mobile site
+
+'pagecount_desktop_views': legacy pagecount from desktop site only
+
+'pagecount_mobile_views': legacy pagecount from mobile site only
+
+'pageview_all_views': all update method pageview from both desktop site and mobile site
+
+'pageview_desktop_views': update method pageview from desktop site
+
+'pageview_mobile_views': update method pageview from mobile site
 
 ### Note about the data:
 Pagecount information are from legacy data collection, which spans from December 2007 thru July 2016 for desktop site and from October 2014 thru July 2016 for mobile site.
